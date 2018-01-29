@@ -1,0 +1,2 @@
+Max value equal to 9
+Min value equal to 1

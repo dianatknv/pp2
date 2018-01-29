@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab2/complex/bin/Debug/netcoreapp2.0/complex.deps.json
+/Users/diana/Projects/lab2/complex/bin/Debug/netcoreapp2.0/complex.runtimeconfig.json
+/Users/diana/Projects/lab2/complex/bin/Debug/netcoreapp2.0/complex.runtimeconfig.dev.json
+/Users/diana/Projects/lab2/complex/bin/Debug/netcoreapp2.0/complex.dll
+/Users/diana/Projects/lab2/complex/bin/Debug/netcoreapp2.0/complex.pdb
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.AssemblyInfo.cs
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.dll
+/Users/diana/Projects/lab2/complex/obj/Debug/netcoreapp2.0/complex.pdb

@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab2/MinPrime/bin/Debug/netcoreapp2.0/MinPrime.deps.json
+/Users/diana/Projects/lab2/MinPrime/bin/Debug/netcoreapp2.0/MinPrime.runtimeconfig.json
+/Users/diana/Projects/lab2/MinPrime/bin/Debug/netcoreapp2.0/MinPrime.runtimeconfig.dev.json
+/Users/diana/Projects/lab2/MinPrime/bin/Debug/netcoreapp2.0/MinPrime.dll
+/Users/diana/Projects/lab2/MinPrime/bin/Debug/netcoreapp2.0/MinPrime.pdb
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.AssemblyInfo.cs
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.dll
+/Users/diana/Projects/lab2/MinPrime/obj/Debug/netcoreapp2.0/MinPrime.pdb

@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab2/maxmin/bin/Debug/netcoreapp2.0/maxmin.deps.json
+/Users/diana/Projects/lab2/maxmin/bin/Debug/netcoreapp2.0/maxmin.runtimeconfig.json
+/Users/diana/Projects/lab2/maxmin/bin/Debug/netcoreapp2.0/maxmin.runtimeconfig.dev.json
+/Users/diana/Projects/lab2/maxmin/bin/Debug/netcoreapp2.0/maxmin.dll
+/Users/diana/Projects/lab2/maxmin/bin/Debug/netcoreapp2.0/maxmin.pdb
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.AssemblyInfo.cs
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.dll
+/Users/diana/Projects/lab2/maxmin/obj/Debug/netcoreapp2.0/maxmin.pdb

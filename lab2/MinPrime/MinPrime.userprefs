@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B231AA80-A66F-44F3-BEED-E27F702010C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="14" />
+      <File FileName="mpread.txt" Line="1" Column="13" />
+      <File FileName="mpwrite.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MinPrime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

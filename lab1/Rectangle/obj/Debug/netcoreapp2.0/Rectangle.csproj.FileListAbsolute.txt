@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab1/Rectangle/bin/Debug/netcoreapp2.0/Rectangle.deps.json
+/Users/diana/Projects/lab1/Rectangle/bin/Debug/netcoreapp2.0/Rectangle.runtimeconfig.json
+/Users/diana/Projects/lab1/Rectangle/bin/Debug/netcoreapp2.0/Rectangle.runtimeconfig.dev.json
+/Users/diana/Projects/lab1/Rectangle/bin/Debug/netcoreapp2.0/Rectangle.dll
+/Users/diana/Projects/lab1/Rectangle/bin/Debug/netcoreapp2.0/Rectangle.pdb
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.AssemblyInfo.cs
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.dll
+/Users/diana/Projects/lab1/Rectangle/obj/Debug/netcoreapp2.0/Rectangle.pdb

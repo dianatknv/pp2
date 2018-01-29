@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab1/Student/bin/Debug/netcoreapp2.0/Student.deps.json
+/Users/diana/Projects/lab1/Student/bin/Debug/netcoreapp2.0/Student.runtimeconfig.json
+/Users/diana/Projects/lab1/Student/bin/Debug/netcoreapp2.0/Student.runtimeconfig.dev.json
+/Users/diana/Projects/lab1/Student/bin/Debug/netcoreapp2.0/Student.dll
+/Users/diana/Projects/lab1/Student/bin/Debug/netcoreapp2.0/Student.pdb
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.AssemblyInfo.cs
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.dll
+/Users/diana/Projects/lab1/Student/obj/Debug/netcoreapp2.0/Student.pdb

@@ -1,0 +1,11 @@
+/Users/diana/Projects/lab1/Circle/bin/Debug/netcoreapp2.0/Circle.deps.json
+/Users/diana/Projects/lab1/Circle/bin/Debug/netcoreapp2.0/Circle.runtimeconfig.json
+/Users/diana/Projects/lab1/Circle/bin/Debug/netcoreapp2.0/Circle.runtimeconfig.dev.json
+/Users/diana/Projects/lab1/Circle/bin/Debug/netcoreapp2.0/Circle.dll
+/Users/diana/Projects/lab1/Circle/bin/Debug/netcoreapp2.0/Circle.pdb
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.csprojResolveAssemblyReference.cache
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.csproj.CoreCompileInputs.cache
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.AssemblyInfoInputs.cache
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.AssemblyInfo.cs
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.dll
+/Users/diana/Projects/lab1/Circle/obj/Debug/netcoreapp2.0/Circle.pdb
